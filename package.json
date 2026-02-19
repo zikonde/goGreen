@@ -11,9 +11,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jsonfile": "^6.1.0",
+    "jsonfile": "^6.2.0",
     "moment": "^2.30.1",
     "random": "^4.1.0",
-    "simple-git": "^3.25.0"
-  }
+    "simple-git": "^3.31.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zikonde/goGreen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zikonde/goGreen/issues"
+  },
+  "homepage": "https://github.com/zikonde/goGreen#readme"
 }
